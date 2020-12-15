@@ -1,0 +1,52 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App renders correctly 1`] = `
+<form
+  onSubmit={[Function]}
+>
+  <div
+    className="input-wrapper"
+  >
+    <label
+      htmlFor="firstNumber"
+    >
+      First Number
+    </label>
+    <input
+      id="firstNumber"
+      name="firstNumber"
+      onBlur={[Function]}
+      onChange={[Function]}
+      placeholder="Enter first number"
+      type="number"
+    />
+    <div
+      className="error"
+    />
+    <br />
+    <label
+      htmlFor="secondNumber"
+    >
+      Second Number
+    </label>
+    <input
+      id="secondNumber"
+      name="secondNumber"
+      onBlur={[Function]}
+      onChange={[Function]}
+      placeholder="Enter second number"
+      type="number"
+    />
+    <div
+      className="error"
+    />
+    <br />
+    <button
+      disabled={true}
+      type="submit"
+    >
+      Submit
+    </button>
+  </div>
+</form>
+`;
