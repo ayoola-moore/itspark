@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/itspark/static/css/main.715422c2.chunk.css",
+    "main.js": "/itspark/static/js/main.b981903f.chunk.js",
+    "main.js.map": "/itspark/static/js/main.b981903f.chunk.js.map",
+    "runtime-main.js": "/itspark/static/js/runtime-main.ac49c588.js",
+    "runtime-main.js.map": "/itspark/static/js/runtime-main.ac49c588.js.map",
+    "static/js/2.bf6fa449.chunk.js": "/itspark/static/js/2.bf6fa449.chunk.js",
+    "static/js/2.bf6fa449.chunk.js.map": "/itspark/static/js/2.bf6fa449.chunk.js.map",
+    "index.html": "/itspark/index.html",
+    "precache-manifest.c1b1cedd03f4b9936bca0169e08d412e.js": "/itspark/precache-manifest.c1b1cedd03f4b9936bca0169e08d412e.js",
+    "service-worker.js": "/itspark/service-worker.js",
+    "static/css/main.715422c2.chunk.css.map": "/itspark/static/css/main.715422c2.chunk.css.map",
+    "static/js/2.bf6fa449.chunk.js.LICENSE.txt": "/itspark/static/js/2.bf6fa449.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ac49c588.js",
+    "static/js/2.bf6fa449.chunk.js",
+    "static/css/main.715422c2.chunk.css",
+    "static/js/main.b981903f.chunk.js"
+  ]
+}
