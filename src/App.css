@@ -1,0 +1,56 @@
+body {
+  display: flex;
+  justify-content: center;
+}
+
+button {
+  padding: 2% 10%;
+  background: #8282d4;
+  color: white;
+  border: none;
+  border-radius: 4px;
+}
+
+button:disabled {
+  background: #ccc;
+}
+
+.App {
+  text-align: center;
+  padding: 10%;
+  border: 1px solid;
+  width: 100%;
+  min-width: 350px;
+  box-sizing: border-box;
+  margin-top: 15%;
+}
+.input-wrapper {
+  padding: 2% 0;
+  text-align: left;
+}
+
+.input-wrapper > * {
+  display: block;
+  width: 100%;
+}
+
+.messageDefault {
+  border: 1px solid #333;
+  min-width: 300px;
+  padding: 5%;
+  margin: 10% 0;
+  border-radius: 2px;
+}
+
+.error {
+  background: #f1b4b4;
+}
+
+.success {
+  background: #b4f1b4;
+}
+
+input {
+  min-width: 300px;
+  padding: 10px;
+}
